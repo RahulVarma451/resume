@@ -1,0 +1,42 @@
+*{
+  background-color: rgb(245, 101, 125);
+}
+h1{
+    background-color: red;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: underline;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+p{
+    height:50px;
+    text-align: center;  
+}
+/* #b1
+{
+    border: 2px,solid,black;
+} */
+#sub{
+    margin-left: 75px;
+    color: black;
+    background-color:bisque;
+}
+#cl
+{
+    color: black;
+    background-color: bisque;
+}
+footer{
+    
+    text-align:center ;
+    font-family: serif;
+    background-color: blanchedalmond;
+    
+}
+h6{
+    text-decoration:underline;
+    text-transform: capitalize;
+    font-size: medium;
+}
+
